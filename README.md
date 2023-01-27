@@ -1,5 +1,5 @@
 - I'm Rezno. I'm learning C so I can learn C++ and make games. 
-- I've been learning how to code for almost 3 weeks so my coding skills are sloppy and bad.
+- I've been learning how to code for almost 2 months so my coding skills are sloppy and bad.
 - I know little to nothing about coding.
 - The only coding languages I know are Minecraft Command Block (Bedrock), TI-BASIC, and C.
 <!---
